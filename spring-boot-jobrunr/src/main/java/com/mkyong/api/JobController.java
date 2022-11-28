@@ -50,4 +50,7 @@ public class JobController {
    public String fetchall(){
      return null;
 }
+    public String delectall(){
+        return null;
+    }
 }
