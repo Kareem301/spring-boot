@@ -53,4 +53,7 @@ public class JobController {
     public String delectall(){
         return null;
     }
+  public String updateAll(){
+return null;
+}
 }
